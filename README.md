@@ -11,6 +11,6 @@ What has been done:
   - BERT; 
   - PyTorch FC;
   - Logistic Regression.
-- Best result was achieved with 
+- Best result was achieved with:
   - PyTorch FC model:  __0.78363__
   - Logistic Regression: __0.79711__
