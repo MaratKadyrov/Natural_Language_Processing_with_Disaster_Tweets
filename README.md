@@ -5,7 +5,7 @@ Competition link - [Natural Language Processing with Disaster Tweets](https://ww
 ![plot](https://github.com/MaratKadyrov/Natural_Language_Processing_with_Disaster_Tweets/blob/main/result.jpg)
 
 What has been done:
-- Data preprocessing (RE, spacy.stopwords, spacy.lematization)
+- Data preprocessing (RE, spacy.lemmatizater)
 - Word2Vec
 - Models training:
   - BERT; 
