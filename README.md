@@ -12,4 +12,4 @@ Models:
 - Embedding+LSTM model (__Score: 0.76034__);
 - Glove embedding model (__Score: 0.76800__);
 - Fine-tunning BERT model (__Score: 0.81366__);
-- Fine tunning ROBERT model (__Score: 0.81612__) - the best model
+- Fine tunning RoBERTa model (__Score: 0.81612__) - the best model
