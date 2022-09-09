@@ -5,12 +5,9 @@ Competition link - [Natural Language Processing with Disaster Tweets](https://ww
 ![plot](https://github.com/MaratKadyrov/Natural_Language_Processing_with_Disaster_Tweets/blob/main/result.jpg)
 
 What has been done:
-- Data preprocessing (RE, spacy.lemmatizater)
-- Word2Vec
-- Models training:
-  - BERT; 
-  - PyTorch FC;
-  - Logistic Regression.
-- Best result was achieved with:
-  - PyTorch FC model:  __0.78363__
-  - Logistic Regression: __0.80049__
+- Data preprocessing (RE, spacy.lemmatizater);
+- Two nn.Linear model (__Score: 0.79589__);
+- Embedding+LSTM model (__Score: 0.76034__);
+- Glove embedding model (__Score: 0.76800__);
+- Fine-tunning BERT model (__Score: 0.81366__);
+- Fine tunning ROBERT model (__Score: 0.81612__) - the best model
