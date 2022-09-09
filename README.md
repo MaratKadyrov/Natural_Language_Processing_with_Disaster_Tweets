@@ -6,6 +6,7 @@ Competition link - [Natural Language Processing with Disaster Tweets](https://ww
 
 What has been done:
 - Data preprocessing (RE, spacy.lemmatizater).
+
 Models:
 - Two nn.Linear model (__Score: 0.79589__);
 - Embedding+LSTM model (__Score: 0.76034__);
